@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /eurovelo13
+exclude: ['README.md']
